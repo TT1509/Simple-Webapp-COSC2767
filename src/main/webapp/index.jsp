@@ -14,7 +14,8 @@
 
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
-      <h1 class="display-4">I am practicing to build code using maven and deploy the artifact WAR file on docker server"</h1>
+      <h1 class="display-4">I am practicing</h1>
+      <h1 class="display-4">I am practicing to build code using maven and deploy the artifact WAR file on docker server</h1>
       <h3 class="display-4">I AM TESTING "Auto-deployment with Poll SCM to trigger build when pushing a new Github commit"</h3>
       <h1 class="display-4">[Live Coding in Lecture, Hi Class] Hello DevOps Students of RMIT Vietnam!</h1>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
